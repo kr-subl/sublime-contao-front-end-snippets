@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+.ce_comments
+	${1}
+	.info
+		${2}
+	.reply
+		${3}
+	.comment_default
+		${4}
+		&.first
+			${5}
+		&.last
+			${6}
+		&.even
+			${7}
+		&.odd
+			${8}
+	.comment
+		${9}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_comments</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

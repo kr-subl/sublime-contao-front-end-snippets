@@ -1,0 +1,58 @@
+<snippet>
+	<content><![CDATA[
+.mod_calendar
+	${1}
+	table
+		${2}
+	thead
+		${3}
+	tbody
+		${4}
+	tr
+		${5}
+		&.first
+			${6}
+		&.last
+			${7}
+	th
+		${8}
+	td
+		${9}
+		&.col_first
+			${10}
+		&.col_last
+			${11}
+	.calendar
+		${12}
+	.minicalendar
+		${13}
+	.head
+		${14}
+	.previous
+		${15}
+		a
+			${16}
+	.next
+		${17}
+		a
+			${18}
+	.current
+		${19}
+	.days
+		${20}
+	.empty
+		${21}
+	.weekend
+		${22}
+	.today
+		${23}
+	.active
+		${24}
+		a
+			${25}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_calendar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

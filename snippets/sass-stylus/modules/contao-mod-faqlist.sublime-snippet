@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+.mod_faqlist
+	${1}
+	ul
+		${2}
+		&.first
+			${3}
+		&.last
+			${4}
+		&.even
+			${5}
+		&.odd
+			${6}
+	li
+		${7}
+		&.first
+			${8}
+		&.last
+			${9}
+		&.even
+			${10}
+		&.odd
+			${11}
+	a
+		${12}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_faqlist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

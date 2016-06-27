@@ -1,0 +1,74 @@
+<snippet>
+	<content><![CDATA[
+.ce_gallery
+	${1}
+	> ul
+		${2}
+	li
+		${3}
+	.row_first
+		${4}
+	.row_last
+		${5}
+	.col_first
+		${6}
+	.col_last
+		${7}
+	.even
+		${8}
+	.odd
+		${9}
+	.cols_1
+		${10}
+		li
+			${11}
+	.cols_2
+		${12}
+		li
+			${13}
+	.cols_3
+		${14}
+		li
+			${15}
+	.cols_4
+		${16}
+		li
+			${17}
+	.cols_5
+		${18}
+		li
+			${19}
+	.cols_6
+		${20}
+		li
+			${21}
+	.cols_7
+		${22}
+		li
+			${23}
+	.cols_8
+		${24}
+		li
+			${25}
+	.cols_9
+		${26}
+		li
+			${27}
+	.cols_10
+		${28}
+		li
+			${29}
+	.cols_11
+		${30}
+		li
+			${31}
+	.cols_12
+		${32}
+		li
+			${33}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_gallery</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

@@ -25,7 +25,7 @@ git clone https://github.com/marcobiedermann/sublime-contao-front-end-snippets.g
 
 ## Usage
 
-Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/) or [Scss](http://sass-lang.com/) files and the autocomplete windows opens.
+Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sass](http://sass-lang.com/), [Scss](http://sass-lang.com/) or [Stylus](http://stylus-lang.com/) files and the autocomplete windows opens.
 
 ### Elements
 

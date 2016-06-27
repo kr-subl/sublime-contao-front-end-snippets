@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+.mod_nl_reader
+	${1}
+	.newsletter
+		${2}
+	.enclosure
+		${3}
+		a
+			${4}
+		.mime_icon
+			${5}
+		.size
+			${6}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_nl_reader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

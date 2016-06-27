@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+.mod_newsmenu
+	${1}
+	ul
+		${2}
+	li
+		${3}
+	a
+		${4}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_newsmenu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

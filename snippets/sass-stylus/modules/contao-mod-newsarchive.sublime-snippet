@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+.mod_newsarchive
+	${1}
+	.layout_full
+		${2}
+	.layout_latest
+		${3}
+	.layout_simple
+		${4}
+	.layout_short
+		${5}
+	.info
+		${6}
+	.teaser
+		${7}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_newsarchive</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

@@ -1,0 +1,48 @@
+<snippet>
+	<content><![CDATA[
+.ce_table
+	${1}
+	thead
+		${2}
+	tfoot
+		${3}
+	tr
+		${4}
+		&.even
+			${5}
+		&.odd
+			${6}
+		&.unsortable
+			${7}
+	th
+		${8}
+		&.first
+			${9}
+		&.last
+			${10}
+	td
+		${11}
+		&.first
+			${12}
+		&.last
+			${13}
+	caption
+		${14}
+	.sortable
+		${15}
+	.row_first
+		${16}
+	.row_last
+		${17}
+	.col_first
+		${18}
+	.col_last
+		${19}
+	.header
+		${20}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

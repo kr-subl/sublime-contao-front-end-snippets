@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+h1
+	${1}
+	&.ce_headline
+		${2}
+h2
+	${3}
+	&.ce_headline
+		${4}
+h3
+	${5}
+	&.ce_headline
+		${6}
+h4
+	${7}
+	&.ce_headline
+		${8}
+h5
+	${9}
+	&.ce_headline
+		${10}
+h6
+	${11}
+	&.ce_headline
+		${12}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_headline</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

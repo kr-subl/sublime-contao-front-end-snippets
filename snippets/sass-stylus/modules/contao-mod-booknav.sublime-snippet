@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+.mod_booknav
+	${1}
+	ul
+		${2}
+	li
+		${3}
+	a
+		${4}
+	.prev
+		${5}
+	.next
+		${6}
+	.up
+		${7}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_booknav</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>

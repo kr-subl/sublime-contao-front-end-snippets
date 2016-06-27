@@ -1,0 +1,51 @@
+<snippet>
+	<content><![CDATA[
+.mod_navigation
+	${1}
+	ul
+		${2}
+	li
+		${3}
+		&.first
+			${4}
+		&.last
+			${5}
+		&.sibling
+			${6}
+		&.submenu
+			${7}
+		&.trail
+			${8}
+	a
+		${9}
+		&.first
+			${10}
+		&.last
+			${11}
+		&.sibling
+			${12}
+		&.submenu
+			${13}
+		&.trail
+			${14}
+	span,
+	strong
+		${15}
+		&.active
+			${16}
+		&.submenu
+			${17}
+		&.trail
+			${18}
+	.level_1
+		${19}
+	.level_2
+		${20}
+	.level_3
+		${21}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_navigation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.styl</scope>
+</snippet>
