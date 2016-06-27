@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+.ce_accordion {
+	${1}
+}
+
+.ce_accordion .toggler {
+	${2}
+}
+
+.ce_accordion .ui-accordion-header-icon {
+	${3}
+}
+
+.ce_accordion .ui-icon-triangle-1-e {
+	${4}
+}
+
+.ce_accordion .ui-icon-triangle-1-s {
+	${5}
+}
+
+.ce_accordion .accordion {
+	${6}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_accordion</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

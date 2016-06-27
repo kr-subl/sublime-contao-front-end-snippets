@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+.enclosure {
+	${1}
+}
+
+.enclosure p {
+	${2}
+}
+
+.enclosure a {
+	${3}
+}
+
+.enclosure .mime_icon {
+	${4}
+}
+
+.enclosure .size {
+	${5}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>enclosure</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

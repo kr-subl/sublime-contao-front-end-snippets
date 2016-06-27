@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+.mod_newsreader {
+	${1}
+}
+
+.mod_newsreader .layout_full {
+	${2}
+}
+
+.mod_newsreader .layout_latest {
+	${3}
+}
+
+.mod_newsreader .layout_simple {
+	${4}
+}
+
+.mod_newsreader .layout_short {
+	${5}
+}
+
+.mod_newsreader .info {
+	${6}
+}
+
+.mod_newsreader .teaser {
+	${7}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_newsreader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

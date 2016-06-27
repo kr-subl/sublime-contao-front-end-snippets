@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+.mod_customnav {
+	${1}
+}
+
+.mod_customnav ul {
+	${2}
+}
+
+.mod_customnav li {
+	${3}
+}
+
+.mod_customnav a {
+	${4}
+}
+
+.mod_customnav span {
+	${5}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_customnav</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,67 @@
+<snippet>
+	<content><![CDATA[
+.mod_sitemap {
+	${1}
+}
+
+.mod_sitemap ul {
+	${2}
+}
+
+.mod_sitemap li {
+	${3}
+}
+
+.mod_sitemap li.first {
+	${4}
+}
+
+.mod_sitemap li.last {
+	${5}
+}
+
+.mod_sitemap a {
+	${6}
+}
+
+.mod_sitemap a.active {
+	${7}
+}
+
+.mod_sitemap a.forward {
+	${8}
+}
+
+.mod_sitemap a.trail {
+	${9}
+}
+
+.mod_sitemap span {
+	${10}
+}
+
+.mod_sitemap .submenu {
+	${11}
+}
+
+.mod_sitemap .sibling {
+	${12}
+}
+
+.mod_sitemap .level_1 {
+	${13}
+}
+
+.mod_sitemap .level_2 {
+	${14}
+}
+
+.mod_sitemap .level_3 {
+	${15}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_sitemap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+.mod_breadcrumb {
+	${1}
+}
+
+.mod_breadcrumb ul {
+	${2}
+}
+
+.mod_breadcrumb li {
+	${3}
+}
+
+.mod_breadcrumb a {
+	${4}
+}
+
+.mod_breadcrumb .first {
+	${5}
+}
+
+.mod_breadcrumb .last {
+	${6}
+}
+
+.mod_breadcrumb .active {
+	${7}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_breadcrumb</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

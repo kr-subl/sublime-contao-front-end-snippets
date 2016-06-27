@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+.ce_download {
+	${1}
+}
+
+.ce_download a {
+	${2}
+}
+
+.ce_download .mime_icon {
+	${3}
+}
+
+.ce_download .size {
+	${4}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_download</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+.mod_booknav {
+	${1}
+}
+
+.mod_booknav ul {
+	${2}
+}
+
+.mod_booknav li {
+	${3}
+}
+
+.mod_booknav a {
+	${4}
+}
+
+.mod_booknav .prev {
+	${5}
+}
+
+.mod_booknav .next {
+	${6}
+}
+
+.mod_booknav .up {
+	${7}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_booknav</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

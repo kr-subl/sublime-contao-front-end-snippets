@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+.mod_faqreader {
+	${1}
+}
+
+.mod_faqreader .enclosure {
+	${2}
+}
+
+.mod_faqreader .size {
+	${3}
+}
+
+.mod_faqreader .info {
+	${4}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_faqreader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

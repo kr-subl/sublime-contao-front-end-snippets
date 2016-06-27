@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+.mod_quicklink {
+	${1}
+}
+
+.mod_quicklink .formbody {
+	${2}
+}
+
+.mod_quicklink .select {
+	${3}
+}
+
+.mod_quicklink .submit {
+	${4}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_quicklink</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

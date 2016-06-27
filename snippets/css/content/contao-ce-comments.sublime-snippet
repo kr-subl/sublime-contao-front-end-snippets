@@ -1,0 +1,43 @@
+<snippet>
+	<content><![CDATA[
+.ce_comments {
+	${1}
+}
+
+.ce_comments .info {
+	${2}
+}
+
+.ce_comments .reply {
+	${3}
+}
+
+.ce_comments .comment_default {
+	${4}
+}
+
+.ce_comments .comment_default.first {
+	${5}
+}
+
+.ce_comments .comment_default.last {
+	${6}
+}
+
+.ce_comments .comment_default.even {
+	${7}
+}
+
+.ce_comments .comment_default.odd {
+	${8}
+}
+
+.ce_comments .comment {
+	${9}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_comments</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,108 @@
+<snippet>
+	<content><![CDATA[
+.mod_calendar {
+	${1}
+}
+
+.mod_calendar table {
+	${2}
+}
+
+.mod_calendar thead {
+	${3}
+}
+
+.mod_calendar tbody {
+	${4}
+}
+
+.mod_calendar tr {
+	${5}
+}
+
+.mod_calendar tr.first {
+	${6}
+}
+
+.mod_calendar tr.last {
+	${7}
+}
+
+.mod_calendar th {
+	${8}
+}
+
+.mod_calendar td {
+	${9}
+}
+
+.mod_calendar td.col_first {
+	${10}
+}
+
+.mod_calendar td.col_last {
+	${11}
+}
+
+.mod_calendar .calendar {
+	${12}
+}
+
+.mod_calendar .minicalendar {
+	${13}
+}
+
+.mod_calendar .head {
+	${14}
+}
+
+
+.mod_calendar .previous {
+	${15}
+}
+
+.mod_calendar .previous a {
+	${16}
+}
+
+.mod_calendar .next {
+	${17}
+}
+
+.mod_calendar .next a {
+	${18}
+}
+
+.mod_calendar .current {
+	${19}
+}
+
+.mod_calendar .days {
+	${20}
+}
+
+.mod_calendar .empty {
+	${21}
+}
+
+.mod_calendar .weekend {
+	${22}
+}
+
+.mod_calendar .today {
+	${23}
+}
+
+.mod_calendar .active {
+	${24}
+}
+
+.mod_calendar .active a {
+	${25}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_calendar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

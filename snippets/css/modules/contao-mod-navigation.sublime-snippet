@@ -1,0 +1,95 @@
+<snippet>
+	<content><![CDATA[
+.mod_navigation {
+	${1}
+}
+
+.mod_navigation ul {
+	${2}
+}
+
+.mod_navigation li {
+	${3}
+}
+
+.mod_navigation li.first {
+	${4}
+}
+
+.mod_navigation li.last {
+	${5}
+}
+
+.mod_navigation li.sibling {
+	${6}
+}
+
+.mod_navigation li.submenu {
+	${7}
+}
+
+.mod_navigation li.trail {
+	${8}
+}
+
+.mod_navigation a {
+	${9}
+}
+
+.mod_navigation a.first {
+	${10}
+}
+
+.mod_navigation a.last {
+	${11}
+}
+
+.mod_navigation a.sibling {
+	${12}
+}
+
+.mod_navigation a.submenu {
+	${13}
+}
+
+.mod_navigation a.trail {
+	${14}
+}
+
+.mod_navigation span,
+.mod_navigation strong {
+	${15}
+}
+
+.mod_navigation span.active,
+.mod_navigation strong.active {
+	${16}
+}
+
+.mod_navigation span.submenu,
+.mod_navigation strong.submenu {
+	${17}
+}
+
+.mod_navigation span.trail,
+.mod_navigation strong.trail {
+	${18}
+}
+
+.mod_navigation .level_1 {
+	${19}
+}
+
+.mod_navigation .level_2 {
+	${20}
+}
+
+.mod_navigation .level_3 {
+	${21}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_navigation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

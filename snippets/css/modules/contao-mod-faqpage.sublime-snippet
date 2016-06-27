@@ -1,0 +1,67 @@
+<snippet>
+	<content><![CDATA[
+.mod_faqpage {
+	${1}
+}
+
+.mod_faqpage article {
+	${2}
+}
+
+.mod_faqpage article.first {
+	${3}
+}
+
+.mod_faqpage article.last {
+	${4}
+}
+
+.mod_faqpage article.even {
+	${5}
+}
+
+.mod_faqpage article.odd {
+	${6}
+}
+
+.mod_faqpage section {
+	${7}
+}
+
+.mod_faqpage section.first {
+	${8}
+}
+
+.mod_faqpage section.last {
+	${9}
+}
+
+.mod_faqpage section.even {
+	${10}
+}
+
+.mod_faqpage section.odd {
+	${11}
+}
+
+.mod_faqpage .enclosure {
+	${12}
+}
+
+.mod_faqpage .info {
+	${13}
+}
+
+.mod_faqpage .size {
+	${14}
+}
+
+.mod_faqpage .toplink {
+	${15}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_faqpage</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
