@@ -3,6 +3,8 @@
 A [Sublime Text](https://www.sublimetext.com/) snippet library for Contao Front-End Classes.
 Compatible with Contao 4.2.X and 3.5.X.
 
+![Sublime Text Contao Fron-End Snippets Screenshot](media/contao-front-end-snippets.gif)
+
 ## Installation
 
 ### [Package Control](https://packagecontrol.io/)
