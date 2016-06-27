@@ -1,0 +1,67 @@
+<snippet>
+	<content><![CDATA[
+.mod_search {
+	${1}
+	.formbody {
+		${2}
+	}
+
+	.text {
+		${3}
+	}
+
+	.submit {
+		${4}
+	}
+
+	.header {
+		${5}
+	}
+
+	> div {
+		${6}
+		&.first {
+			${7}
+		}
+
+		&.last {
+			${8}
+		}
+
+		&.even {
+			${9}
+		}
+
+		&.odd {
+			${10}
+		}
+
+	}
+
+	.relevance {
+		${11}
+	}
+
+	.context {
+		${12}
+	}
+
+	.highlight {
+		${13}
+	}
+
+	.url {
+		${14}
+	}
+
+	.filezize {
+		${15}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_search</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

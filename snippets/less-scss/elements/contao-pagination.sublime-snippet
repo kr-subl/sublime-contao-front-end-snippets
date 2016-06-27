@@ -1,0 +1,48 @@
+<snippet>
+	<content><![CDATA[
+.pagination {
+	${1}
+	p {
+		${2}
+	}
+
+	ul {
+		${3}
+	}
+
+	li {
+		${4}
+	}
+
+	a {
+		${5}
+	}
+
+	span {
+		${6}
+	}
+
+	.link {
+		${7}
+	}
+
+	.previous {
+		${8}
+	}
+
+	.next {
+		${9}
+	}
+
+	.active,
+	.current {
+		${10}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pagination</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

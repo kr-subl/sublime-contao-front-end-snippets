@@ -1,0 +1,95 @@
+<snippet>
+	<content><![CDATA[
+.ce_table {
+	${1}
+	table {
+		${2}
+	}
+
+	thead {
+		${3}
+	}
+
+	tfoot {
+		${4}
+	}
+
+	tbody {
+		${5}
+	}
+
+	tr {
+		${6}
+		&.even {
+			${7}
+		}
+
+		&.odd {
+			${8}
+		}
+
+		&.unsortable {
+			${9}
+		}
+
+	}
+
+	th {
+		${10}
+		&.col_first {
+			${11}
+		}
+
+		&.col_last {
+			${12}
+		}
+
+	}
+
+	td {
+		${13}
+		&.row_first {
+			${14}
+		}
+
+		&.row_last {
+			${15}
+		}
+
+		&.col_first {
+			${16}
+		}
+
+		&.col_last {
+			${17}
+		}
+
+		&.even {
+			${18}
+		}
+
+		&.odd {
+			${19}
+		}
+
+	}
+
+	caption {
+		${20}
+	}
+
+	.sortable {
+		${21}
+	}
+
+	.header {
+		${22}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

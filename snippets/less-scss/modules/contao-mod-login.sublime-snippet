@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+.mod_login {
+	${1}
+	.text {
+		${2}
+	}
+
+	.login_info {
+		${3}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_login</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

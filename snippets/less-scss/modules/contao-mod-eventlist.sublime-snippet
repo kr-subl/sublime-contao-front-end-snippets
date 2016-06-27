@@ -1,0 +1,47 @@
+<snippet>
+	<content><![CDATA[
+.mod_eventlist {
+	${1}
+	.event {
+		${2}
+	}
+
+	.layout_full {
+		${3}
+	}
+
+	.layout_list {
+		${4}
+	}
+
+	.layout_teaser {
+		${5}
+	}
+
+	.layout_upcoming {
+		${6}
+	}
+
+	.header {
+		${7}
+	}
+
+	.time {
+		${8}
+	}
+
+	.day {
+		${9}
+	}
+
+	.location {
+		${10}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mod_eventlist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

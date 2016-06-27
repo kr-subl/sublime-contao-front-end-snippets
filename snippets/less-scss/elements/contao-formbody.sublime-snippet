@@ -1,0 +1,119 @@
+<snippet>
+	<content><![CDATA[
+.formbody {
+	${1}
+	fieldset {
+		${2}
+	}
+
+	label {
+		${3}
+		&.mandatory {
+			${4}
+		}
+
+	}
+
+	.captcha {
+		${5}
+	}
+
+	.password {
+		${6}
+	}
+
+	.text {
+		${7}
+	}
+
+	.upload {
+		${8}
+	}
+
+	.checkbox {
+		${9}
+	}
+
+	.radio {
+		${10}
+	}
+
+	select.select {
+		${11}
+	}
+
+	.textarea {
+		${12}
+	}
+
+	.submit {
+		${13}
+	}
+
+	span.mandatory {
+		${14}
+	}
+
+	.widget {
+		${15}
+		&.confirm {
+			${16}
+		}
+
+		&.mandatory {
+			${17}
+		}
+
+	}
+
+	.widget-captcha {
+		${18}
+	}
+
+	.widget-checkbox {
+		${19}
+	}
+
+	.widget-password {
+		${20}
+	}
+
+	.widget-radio {
+		${21}
+	}
+
+	.widget-select {
+		${22}
+	}
+
+	.widget-text {
+		${23}
+	}
+
+	.widget-textarea {
+		${24}
+	}
+
+	.widget-upload {
+		${25}
+	}
+
+	.checkbox_container {
+		${26}
+	}
+
+	.radio_container {
+		${27}
+	}
+
+	.submit_container {
+		${28}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>formbody</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>

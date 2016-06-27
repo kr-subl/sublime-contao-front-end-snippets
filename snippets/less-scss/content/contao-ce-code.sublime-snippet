@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+.ce_code {
+	${1}
+
+	pre {
+		${2}
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ce_code</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less, source.scss</scope>
+</snippet>
