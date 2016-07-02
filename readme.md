@@ -114,6 +114,9 @@ Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sa
 | Subscribe | mod_subscribe |
 | Unsubscribe | mod_unsubscribe |
 
+## Related Projects
+* [Atom Contao Front-End Snippets](https://github.com/marcobiedermann/atom-contao-front-end-snippets)
+
 ## License
 
 Sublime Text Contao Front-End Snippets Plugin is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
