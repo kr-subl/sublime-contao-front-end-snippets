@@ -31,7 +31,7 @@ Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sa
 
 ### Elements
 
-| Head Tags | Snippet code |
+| Element | Snippet code |
 |---|---|
 | Button | button |
 | Enclosure | enclosure |
@@ -42,7 +42,7 @@ Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sa
 
 ### Content Elements
 
-| Head Tags | Snippet code |
+| Content Element | Snippet code |
 |---|---|
 | Accordion | ce_accordion |
 | Code | ce_code |
@@ -65,7 +65,7 @@ Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sa
 
 ### Layout
 
-| Head Tags | Snippet code |
+| Layout | Snippet code |
 |---|---|
 | Wrapper | layout_wrapper |
 | Header | layout_header |
@@ -77,7 +77,7 @@ Start typing `ce_`, `layout_` or `mod_` in CSS, [Less](http://lesscss.org/), [Sa
 
 ### Modules
 
-| Head Tags | Snippet code |
+| Module | Snippet code |
 |---|---|
 | Article List | mod_articleList |
 | Article | mod_article |
